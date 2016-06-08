@@ -1,0 +1,8 @@
+mbed-os/docs/*
+mbed-os/net/*
+mbed-os/hal_temp/*
+mbed-os/mbedtls/*
+mbed-os/frameworks/*
+mbed-os/net/*
+mbed-os/uvisor-mbed-lib/*
+mbed-os/mbed/rtos/*
